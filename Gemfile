@@ -27,7 +27,7 @@ gem 'jquery-ui-rails'
 
 # Authentication
 gem 'devise'
-
+gem 'turbolinks'
 # Files upload
 gem 'carrierwave'
 gem 'fog'
