@@ -11,7 +11,7 @@ development:
   host: localhost
   template: template0
   database: sample_app_development
-  username: cabox
+  username: postgres
   password: masterkey
   pool: 5
   timeout: 5000
@@ -22,7 +22,7 @@ test:
   host: localhost
   template: template0
   database:  sample_app_test
-  username: cabox	
+  username: postgres	
   password: masterkey
   pool: 5
   timeout: 5000

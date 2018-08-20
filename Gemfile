@@ -24,7 +24,6 @@ gem 'draper'
 gem 'will_paginate', '~> 3.1.0'
 gem 'breadcrumbs_on_rails'
 gem 'jquery-ui-rails'
-
 # Authentication
 gem 'devise'
 gem 'turbolinks'
@@ -45,6 +44,8 @@ group :development, :test do
   gem 'capybara', '~> 2.13'
   gem 'selenium-webdriver'
   gem 'dotenv-rails'
+  gem 'minitest'
+  gem 'minitest-reporters'
 end
 
 group :development do
