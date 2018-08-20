@@ -1,0 +1,14 @@
+defaults: &defaults
+  CONSUMER_KEY: "ck_381e3242e71ee886444019ca4ee4ede2af09bfda"
+  CONSUMER_SECRET: "cs_d97bb8cd96deae4804961ee4597dc667b0a1e071"
+  STORE_URL: "https://moreton.net.au/"
+  VERSION: "v3"
+  
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+production:
+  <<: *defaults

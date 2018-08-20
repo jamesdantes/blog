@@ -1,0 +1,16 @@
+- provide(:title, "Home")
+h1
+  | Sample App
+p
+  | Find me in app/views/static_pages/home.html.erb
+table
+  thead
+    td
+      | Product Name
+  tbody
+    - @wp_products.each do | product |
+      tr
+        td
+          = product['title']
+        td
+          = product['type']

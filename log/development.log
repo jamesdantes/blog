@@ -642,3 +642,2408 @@ Processing by UsersController#index as HTML
 Completed 200 OK in 1038ms (Views: 1019.2ms | ActiveRecord: 6.6ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:55 -0400
+Processing by Rails::WelcomeController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:55 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:55 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:55 -0400
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (12.5ms)
+Completed 200 OK in 46ms (Views: 25.5ms | ActiveRecord: 0.0ms)
+
+
+Processing by Rails::WelcomeController#index as */*
+Processing by Rails::WelcomeController#index as */*
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (7.4ms)
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (0.2ms)
+Completed 200 OK in 90ms (Views: 16.0ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 71ms (Views: 64.5ms | ActiveRecord: 0.0ms)
+
+
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (0.9ms)
+Completed 200 OK in 101ms (Views: 62.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:56 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (9.7ms)
+Completed 200 OK in 24ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:56 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (4.1ms)
+Completed 200 OK in 18ms (Views: 11.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:31:57 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (5.7ms)
+Completed 200 OK in 23ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:58 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:58 -0400
+Processing by Rails::WelcomeController#index as */*
+Processing by Rails::WelcomeController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:58 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (40.0ms)
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (12.6ms)
+Completed 200 OK in 349ms (Views: 226.7ms | ActiveRecord: 0.0ms)
+
+
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+Completed 200 OK in 365ms (Views: 148.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:59 -0400
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (0.9ms)
+Completed 200 OK in 207ms (Views: 171.0ms | ActiveRecord: 0.0ms)
+
+
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (14.1ms)
+Completed 200 OK in 84ms (Views: 30.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:59 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:32:59 -0400
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (74.1ms)
+Processing by Rails::WelcomeController#index as */*
+Completed 200 OK in 228ms (Views: 216.0ms | ActiveRecord: 0.0ms)
+
+
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 130ms (Views: 93.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-17 03:33:00 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (42.0ms)
+Completed 200 OK in 91ms (Views: 55.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users" for 43.230.109.29 at 2018-08-17 03:34:00 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 43.230.109.29 at 2018-08-17 03:34:04 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 8ms (Views: 5.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 19:01:38 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 29ms (Views: 14.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 19:01:39 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 19ms (Views: 12.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 19:10:31 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.9ms)
+Completed 200 OK in 28ms (Views: 13.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 19:10:32 -0400
+Processing by Rails::WelcomeController#index as */*
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.5ms)
+Completed 200 OK in 16ms (Views: 10.1ms)
+
+
+Started GET "/" for 43.230.109.29 at 2018-08-19 19:11:07 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/cabox/.rvm/gems/ruby-2.4.3/gems/railties-5.1.2/lib/rails/templates/rails/welcome/index.html.erb (3.1ms)
+Completed 200 OK in 6ms (Views: 4.4ms)
+
+
+Started GET "/" for 43.230.109.29 at 2018-08-19 19:20:24 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3705ms (Views: 3700.8ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:24:05 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 601ms (Views: 584.7ms)
+
+
+Started GET "/" for 64.233.172.164 at 2018-08-19 19:47:51 -0400
+Cannot render console from 64.233.172.164! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#index as HTML
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 118ms (Views: 112.5ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:53:03 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 583ms
+
+
+  
+NoMethodError (undefined method `bytesize' for {}:Hash):
+  
+app/controllers/static_pages_controller.rb:11:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:53:16 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 42ms
+
+
+  
+NoMethodError (undefined method `bytesize' for {}:Hash):
+  
+app/controllers/static_pages_controller.rb:11:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:53:42 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 40ms
+
+
+  
+NoMethodError (undefined method `bytesize' for {}:Hash):
+  
+app/controllers/static_pages_controller.rb:11:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:54:30 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 44ms
+
+
+  
+NoMethodError (undefined method `bytesize' for #<Hash:0x00007f8171720048>):
+  
+app/controllers/static_pages_controller.rb:11:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:54:54 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 40ms
+
+
+  
+NoMethodError (undefined method `bytesize' for #<Hash:0x00007f8173404920>):
+  
+app/controllers/static_pages_controller.rb:11:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 19:59:51 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 492ms
+
+
+  
+NameError (undefined local variable or method `nhttp' for #<StaticPagesController:0x000000000478a330>):
+  
+app/controllers/static_pages_controller.rb:4:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:00:06 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 700ms
+
+
+  
+NameError (undefined local variable or method `http' for #<StaticPagesController:0x00007f81709cf538>):
+  
+app/controllers/static_pages_controller.rb:4:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:01:16 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 794ms
+
+
+  
+NameError (undefined local variable or method `nhttp' for #<StaticPagesController:0x00007f81710b0f78>):
+  
+app/controllers/static_pages_controller.rb:7:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:03:55 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 188ms
+
+
+  
+IOError (use_ssl value changed, but session already started):
+  
+app/controllers/static_pages_controller.rb:9:in `block in home'
+app/controllers/static_pages_controller.rb:8:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:04:14 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 500 Internal Server Error in 1040ms
+
+
+  
+NoMethodError (undefined method `set_body_internal' for #<ActionDispatch::Request:0x0000000005f9c018>):
+  
+app/controllers/static_pages_controller.rb:10:in `block in home'
+app/controllers/static_pages_controller.rb:9:in `home'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:04:56 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2090ms (Views: 122.9ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:06:07 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3033ms (Views: 69.6ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:06:21 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 86ms (Views: 39.2ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:08:15 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.6ms)
+Completed 500 Internal Server Error in 54ms
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+     5:     <td>title</td>
+     6:   </thead>
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+  
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096979605160'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:08:29 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.3ms)
+Completed 500 Internal Server Error in 52ms
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+     5:     <td>title</td>
+     6:   </thead>
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+  
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096981267500'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:08:51 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (2241.5ms)
+Completed 500 Internal Server Error in 2302ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `products' for #<#<Class:0x00007f8170964850>:0x00007f81709528f8>
+Did you mean?  product
+               @products):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+    12:     <% end %>
+    13:   </tbody>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_70096958205800'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096958205800'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:09:26 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (2379.1ms)
+Completed 500 Internal Server Error in 2628ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `products' for #<#<Class:0x000000000317c5e8>:0x0000000002b3a770>
+Did you mean?  product
+               @products):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+    12:     <% end %>
+    13:   </tbody>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_26231760'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_26231760'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:12:34 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (2556.0ms)
+Completed 500 Internal Server Error in 2792ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `products' for #<#<Class:0x00007f817339d2e8>:0x00007f8173393568>
+Did you mean?  product
+               @products):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+    12:     <% end %>
+    13:   </tbody>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_70096980340220'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096980340220'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:13:39 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1419.2ms)
+Completed 500 Internal Server Error in 1494ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `products' for #<#<Class:0x00007f817339d2e8>:0x0000000003283220>
+Did you mean?  product
+               @products):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= products.title %> </td>
+    11:     </tr>
+    12:     <% end %>
+    13:   </tbody>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_26705300'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_26705300'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:13:50 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (32.8ms)
+Completed 500 Internal Server Error in 221ms
+
+
+  
+ActionView::Template::Error (undefined method `title' for #<Hash:0x00007f81734cf828>):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= product.title %> </td>
+    11:     </tr>
+    12:     <% end %>
+    13:   </tbody>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_70096980746200'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096980746200'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:14:13 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.3ms)
+Completed 200 OK in 160ms (Views: 85.6ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:14:49 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 128ms (Views: 70.1ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:14:57 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 231ms (Views: 43.4ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:15:06 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 406 Not Acceptable in 110ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#home is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:16:13 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (16.1ms)
+Completed 500 Internal Server Error in 76ms
+
+
+  
+ActionView::Template::Error (undefined method `title' for #<Hash:0x000000000406faf0>):
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= product.title %> </td>
+    11:       <td>  test <% puts product['title'] %> </td>
+    12:     </tr>
+    13:     <% end %>
+  
+app/views/static_pages/home.html.erb:10:in `block in _app_views_static_pages_home_html_erb__374792936752463547_25815840'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_25815840'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:16:22 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 102ms (Views: 44.5ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:17:35 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.2ms)
+Completed 500 Internal Server Error in 250ms
+
+
+  
+ActionView::Template::Error (no implicit conversion of Hash into String):
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= product[:title] %> </td>
+    11:       <td>  test <% puts JSON.parse(product)['title'] %> </td>
+    12:     </tr>
+    13:     <% end %>
+    14:   </tbody>
+  
+app/views/static_pages/home.html.erb:11:in `block in _app_views_static_pages_home_html_erb__374792936752463547_70096981371600'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096981371600'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:17:45 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 406 Not Acceptable in 95ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#home is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:18:06 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.5ms)
+Completed 200 OK in 108ms (Views: 60.3ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:18:28 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.1ms)
+Completed 500 Internal Server Error in 57ms
+
+
+  
+ActionView::Template::Error (undefined method `title' for #<Hash:0x00007f81714bd210>):
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= product[:title] %> </td>
+    11:       <td>  test <% puts product.as_json.title %> </td>
+    12:     </tr>
+    13:     <% end %>
+    14:   </tbody>
+  
+app/views/static_pages/home.html.erb:11:in `block in _app_views_static_pages_home_html_erb__374792936752463547_70096964316540'
+app/views/static_pages/home.html.erb:8:in `each'
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb__374792936752463547_70096964316540'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:18:39 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 105ms (Views: 35.5ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:19:23 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 406 Not Acceptable in 99ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#home is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:19:32 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 86ms (Views: 41.5ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:20:04 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (5.6ms)
+Completed 200 OK in 94ms (Views: 46.0ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:20:23 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 111ms (Views: 65.3ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:31:17 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (9.3ms)
+Completed 200 OK in 268ms (Views: 55.8ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:31:33 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 111ms (Views: 63.9ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:31:45 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 118ms (Views: 67.3ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:32:00 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 406 Not Acceptable in 104ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#home is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:32:04 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 110ms (Views: 62.1ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:32:12 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+Completed 406 Not Acceptable in 98ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#home is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:32:14 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 90ms (Views: 43.6ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:40:08 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:40:54 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:48:39 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:49:27 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:49:29 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:51:45 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:04 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:19: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:25: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:09 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 36ms (Views: 35.0ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:17 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController):
+  
+activesupport (5.1.2) lib/active_support/inflector/methods.rb:269:in `const_get'
+activesupport (5.1.2) lib/active_support/inflector/methods.rb:269:in `block in constantize'
+activesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `each'
+activesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `inject'
+activesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `constantize'
+actionpack (5.1.2) lib/action_dispatch/http/request.rb:82:in `controller_class'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:43:in `controller'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:29:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:26 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 47ms (Views: 46.0ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:33 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 38ms (Views: 36.4ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:36 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:18: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:18: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:38 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+SyntaxError (/home/cabox/workspace/app/controllers/static_pages_controller.rb:18: syntax error, unexpected tSTRING_BEG, expecting ')'
+        "consumer_secret", 'cs_d97bb8cd
+         ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+        "consumer_secret", 'cs_d97bb8cd96deae4804961ee45
+                          ^
+/home/cabox/workspace/app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+    )
+     ^):
+  
+app/controllers/static_pages_controller.rb:18: syntax error, unexpected tSTRING_BEG, expecting ')'
+app/controllers/static_pages_controller.rb:18: syntax error, unexpected ',', expecting keyword_end
+app/controllers/static_pages_controller.rb:24: syntax error, unexpected ')', expecting keyword_end
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:52:43 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 37ms (Views: 35.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:26 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (5.1ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:27 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (4.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:27 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (4.1ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:28 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (2.4ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:28 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (5.2ms)
+Completed 200 OK in 4441ms (Views: 4436.1ms)
+
+
+Completed 200 OK in 3096ms (Views: 3090.1ms)
+
+
+Completed 200 OK in 4818ms (Views: 4804.4ms)
+
+
+Completed 200 OK in 3621ms (Views: 3612.9ms)
+
+
+Completed 200 OK in 4156ms (Views: 4146.5ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 20:59:31 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:31 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:31 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:31 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by DashboardController#index as */*
+Processing by DashboardController#index as */*
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+  Rendered dashboard/index.html.erb within layouts/application (0.8ms)
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 173ms (Views: 169.1ms)
+
+
+Completed 200 OK in 186ms (Views: 180.1ms)
+
+
+Completed 200 OK in 172ms (Views: 167.8ms)
+
+
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:5:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2018-08-19 20:59:32 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 160ms (Views: 155.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:04 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:04 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:05 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:05 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:06 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 2714ms (Views: 2697.0ms)
+
+
+Completed 200 OK in 1825ms (Views: 1820.9ms)
+
+
+Completed 200 OK in 2346ms (Views: 2339.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:07 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:01:07 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 1664ms (Views: 1658.4ms)
+
+
+Completed 200 OK in 297ms (Views: 291.5ms)
+
+
+Completed 200 OK in 136ms (Views: 86.9ms)
+
+
+Completed 200 OK in 1390ms (Views: 1381.9ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:01:21 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:5:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:04:07 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:2:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:21 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:21 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:22 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:22 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:23 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 1717ms (Views: 1712.8ms)
+
+
+Completed 200 OK in 2135ms (Views: 2122.1ms)
+
+
+Completed 200 OK in 1244ms (Views: 1237.8ms)
+
+
+Completed 200 OK in 179ms (Views: 174.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:04:23 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 1075ms (Views: 1065.2ms)
+
+
+Completed 200 OK in 72ms (Views: 68.1ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:04:50 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:2:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:51 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (2.2ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:52 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:52 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.7ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:53 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (5.7ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:53 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 3554ms (Views: 3537.1ms)
+
+
+Completed 200 OK in 3065ms (Views: 3059.7ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:15:55 -0400
+Completed 200 OK in 2182ms (Views: 2166.9ms)
+
+
+Completed 200 OK in 2713ms (Views: 2703.4ms)
+
+
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:55 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 1899ms (Views: 1854.0ms)
+
+
+Completed 200 OK in 107ms (Views: 102.0ms)
+
+
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:2:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:55 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:55 -0400
+Processing by DashboardController#index as */*
+Processing by DashboardController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:15:55 -0400
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.9ms)
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 209ms (Views: 204.8ms)
+
+
+Completed 200 OK in 228ms (Views: 223.0ms)
+
+
+Completed 200 OK in 197ms (Views: 192.7ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:16:00 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:2:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:16:02 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+  
+ActionController::RoutingError (uninitialized constant StaticPagesController::WpMoreton):
+  
+app/controllers/static_pages_controller.rb:2:in `<class:StaticPagesController>'
+app/controllers/static_pages_controller.rb:1:in `<top (required)>'
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:48 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (2.7ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:49 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.4ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:49 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (4.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:50 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (10.3ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:50 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 2491ms (Views: 2485.0ms)
+
+
+Completed 200 OK in 2031ms (Views: 2023.7ms)
+
+
+Completed 200 OK in 2934ms (Views: 2920.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:51 -0400
+Processing by DashboardController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-19 21:17:51 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 191ms (Views: 186.5ms)
+
+
+Completed 200 OK in 239ms (Views: 235.4ms)
+
+
+Completed 200 OK in 1893ms (Views: 1888.0ms)
+
+
+Completed 200 OK in 1583ms (Views: 1560.8ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:18:22 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 2821ms (Views: 43.6ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:19:03 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2721ms (Views: 43.9ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:20:20 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.6ms)
+Completed 500 Internal Server Error in 130ms
+
+
+  
+ActionView::Template::Error (undefined method `each' for nil:NilClass):
+     5:     <td>Product Name</td>
+     6:   </thead>
+     7:   <tbody>
+     8:     <% @products.each do | product | %>
+     9:     <tr>
+    10:       <td>  <%= product.as_json['title'] %> </td>
+    11:     </tr>
+  
+app/views/static_pages/home.html.erb:8:in `_app_views_static_pages_home_html_erb___3243540984427114356_70032028088620'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:20:25 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.erb within layouts/application
+  Rendered static_pages/home.html.erb within layouts/application (4.6ms)
+Completed 200 OK in 245ms (Views: 120.0ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:22:57 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (27.8ms)
+Completed 500 Internal Server Error in 408ms
+
+
+  
+SyntaxError (/home/cabox/workspace/app/views/static_pages/home.html.slim:15: syntax error, unexpected keyword_ensure, expecting ')'
+          ensure
+                ^
+/home/cabox/workspace/app/views/static_pages/home.html.slim:17: syntax error, unexpected keyword_end, expecting ')'
+          end
+             ^):
+  
+app/views/static_pages/home.html.slim:15: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/static_pages/home.html.slim:17: syntax error, unexpected keyword_end, expecting ')'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:23:38 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (792.9ms)
+Completed 500 Internal Server Error in 1023ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `product' for #<#<Class:0x00007f6334506790>:0x00007f6334569750>
+Did you mean?  proc):
+    10:     - @wp_products.each do | product |
+    11:     tr
+    12:       td
+    13:         | #{product.as_json['title']}
+  
+app/views/static_pages/home.html.slim:13:in `_app_views_static_pages_home_html_slim__3059208720342049418_70032028291600'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:26:40 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (685.0ms)
+Completed 500 Internal Server Error in 758ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `product' for #<#<Class:0x00007f6334506790>:0x00007f632003a5b8>
+Did you mean?  proc):
+    10:     - @wp_products.each do | product |
+    11:     tr
+    12:       td
+    13:         | #{product.as_json['title']}
+  
+app/views/static_pages/home.html.slim:13:in `_app_views_static_pages_home_html_slim__3059208720342049418_70031857801160'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:29:56 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (812.5ms)
+Completed 500 Internal Server Error in 1047ms
+
+
+  
+ActionView::Template::Error (undefined local variable or method `product' for #<#<Class:0x00007f6334506790>:0x00007f6331c0cb50>
+Did you mean?  proc):
+    10:     - @wp_products.each do | product |
+    11:     tr
+    12:       td
+    13:         = product['title']
+  
+app/views/static_pages/home.html.slim:13:in `_app_views_static_pages_home_html_slim__3059208720342049418_70032006606620'
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:30:13 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (9.0ms)
+Completed 200 OK in 142ms (Views: 63.7ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:30:41 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (8.4ms)
+Completed 200 OK in 265ms (Views: 160.2ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:30:46 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (5.9ms)
+Completed 200 OK in 150ms (Views: 73.8ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:30:49 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (10.0ms)
+Completed 200 OK in 148ms (Views: 65.7ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:30:55 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (8.3ms)
+Completed 200 OK in 144ms (Views: 61.9ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:33:20 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (5.7ms)
+Completed 200 OK in 145ms (Views: 43.2ms)
+
+
+Started GET "/static_pages/home" for 43.230.109.29 at 2018-08-19 21:36:25 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#home as HTML
+  Rendering static_pages/home.html.slim within layouts/application
+  Rendered static_pages/home.html.slim within layouts/application (6.5ms)
+Completed 200 OK in 453ms (Views: 43.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:03 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (5.0ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:04 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:04 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:05 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:05 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 3729ms (Views: 3725.3ms)
+
+
+Completed 200 OK in 2835ms (Views: 2830.6ms)
+
+
+Completed 200 OK in 2333ms (Views: 2328.3ms)
+
+
+Completed 200 OK in 4048ms (Views: 4035.4ms)
+
+
+Completed 200 OK in 3349ms (Views: 3343.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:07 -0400
+Processing by DashboardController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:07 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:07 -0400
+  Rendering dashboard/index.html.erb within layouts/application
+Started GET "/" for 127.0.0.1 at 2018-08-19 22:20:07 -0400
+Processing by DashboardController#index as */*
+Processing by DashboardController#index as */*
+  Rendered dashboard/index.html.erb within layouts/application (0.4ms)
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 108ms (Views: 103.6ms)
+
+
+Completed 200 OK in 152ms (Views: 147.7ms)
+
+
+Completed 200 OK in 158ms (Views: 143.7ms)
+
+
+Completed 200 OK in 142ms (Views: 137.7ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:20:13 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.9ms)
+Completed 200 OK in 55ms (Views: 53.0ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:20:26 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.3ms)
+Completed 200 OK in 42ms (Views: 40.1ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:20:37 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.1ms)
+Completed 200 OK in 41ms (Views: 39.7ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:20:46 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.1ms)
+Completed 200 OK in 44ms (Views: 42.9ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:23:29 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.9ms)
+Completed 200 OK in 44ms (Views: 42.2ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:24:05 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (5.2ms)
+Completed 200 OK in 56ms (Views: 55.0ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:24:16 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (5.0ms)
+Completed 200 OK in 44ms (Views: 43.0ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:24:25 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.4ms)
+Completed 200 OK in 40ms (Views: 38.7ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:24:30 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.6ms)
+Completed 200 OK in 41ms (Views: 39.6ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-19 22:26:32 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (5.4ms)
+Completed 200 OK in 52ms (Views: 50.3ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:56:28 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (158.8ms)
+Completed 200 OK in 487ms (Views: 440.2ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:56:47 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (28.9ms)
+Completed 200 OK in 237ms (Views: 233.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:56:52 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (84.3ms)
+Completed 500 Internal Server Error in 106ms
+
+
+  
+ActionView::Template::Error (Malformed indentation
+  /home/cabox/workspace/app/views/static_pages/about.html.slim, Line 11, Column 2
+    | and&nbsp; 
+    ^
+):
+     8: 	| &nbsp;is a
+     9: 	a href = "http://www.railstutorial.org/book"
+    10: 		| book
+    11:   | and&nbsp; 
+    12: 	a href = "http://screencasts.railstutorial.org/"
+    13: 		screencast series
+    14: 	| &nbsp;to teach web development with
+  
+app/views/static_pages/about.html.slim:11
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:57:11 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (3.7ms)
+Completed 500 Internal Server Error in 8ms
+
+
+  
+ActionView::Template::Error (Malformed indentation
+  /home/cabox/workspace/app/views/static_pages/about.html.slim, Line 11, Column 2
+    | and &nbsp; 
+    ^
+):
+     8: 	| &nbsp;is a
+     9: 	a href = "http://www.railstutorial.org/book"
+    10: 		| book
+    11:   | and &nbsp; 
+    12: 	a href = "http://screencasts.railstutorial.org/"
+    13: 		screencast series
+    14: 	| &nbsp;to teach web development with
+  
+app/views/static_pages/about.html.slim:11
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:57:41 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+Completed 406 Not Acceptable in 56ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#about is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:57:47 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (8.6ms)
+Completed 200 OK in 71ms (Views: 68.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 22:58:48 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.1ms)
+Completed 200 OK in 48ms (Views: 46.3ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:01:42 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.5ms)
+Completed 200 OK in 53ms (Views: 51.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:01:51 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.0ms)
+Completed 200 OK in 56ms (Views: 54.7ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:02:01 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (5.7ms)
+Completed 200 OK in 46ms (Views: 44.3ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:02:12 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.0ms)
+Completed 200 OK in 55ms (Views: 53.7ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:02:26 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (8.6ms)
+Completed 200 OK in 56ms (Views: 54.3ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:08:27 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.4ms)
+Completed 200 OK in 44ms (Views: 42.7ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:08:36 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.9ms)
+Completed 200 OK in 52ms (Views: 50.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:08:45 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.2ms)
+Completed 200 OK in 64ms (Views: 62.5ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:08:55 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.5ms)
+Completed 200 OK in 48ms (Views: 46.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:08:57 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.6ms)
+Completed 200 OK in 71ms (Views: 70.1ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:09:03 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.3ms)
+Completed 200 OK in 51ms (Views: 49.8ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:09:12 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.0ms)
+Completed 200 OK in 60ms (Views: 57.6ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:09:28 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.5ms)
+Completed 200 OK in 46ms (Views: 44.9ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:09:35 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+Completed 406 Not Acceptable in 49ms
+
+
+  
+ActionController::UnknownFormat (StaticPagesController#about is missing a template for this request format and variant.
+
+request.formats: ["text/html"]
+request.variant: []
+
+NOTE! For XHR/Ajax or API requests, this action would normally respond with 204 No Content: an empty white screen. Since you're loading it in a web browser, we assume that you expected to actually render a template, not nothing, so we're showing an error to be extra-clear. If you expect 204 No Content, carry on. That's what you'll get from an XHR or API request. Give it a shot.):
+  
+actionpack (5.1.2) lib/action_controller/metal/implicit_render.rb:53:in `default_render'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `block in send_action'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `tap'
+actionpack (5.1.2) lib/action_controller/metal/basic_implicit_render.rb:4:in `send_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:186:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rendering.rb:30:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:20:in `block in process_action'
+activesupport (5.1.2) lib/active_support/callbacks.rb:131:in `run_callbacks'
+actionpack (5.1.2) lib/abstract_controller/callbacks.rb:19:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/rescue.rb:20:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:32:in `block in process_action'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `block in instrument'
+activesupport (5.1.2) lib/active_support/notifications/instrumenter.rb:21:in `instrument'
+activesupport (5.1.2) lib/active_support/notifications.rb:166:in `instrument'
+actionpack (5.1.2) lib/action_controller/metal/instrumentation.rb:30:in `process_action'
+actionpack (5.1.2) lib/action_controller/metal/params_wrapper.rb:252:in `process_action'
+activerecord (5.1.2) lib/active_record/railties/controller_runtime.rb:22:in `process_action'
+actionpack (5.1.2) lib/abstract_controller/base.rb:124:in `process'
+actionview (5.1.2) lib/action_view/rendering.rb:30:in `process'
+actionpack (5.1.2) lib/action_controller/metal.rb:189:in `dispatch'
+actionpack (5.1.2) lib/action_controller/metal.rb:253:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:49:in `dispatch'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:31:in `serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'
+actionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'
+actionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'
+warden (1.2.7) lib/warden/manager.rb:36:in `block in call'
+warden (1.2.7) lib/warden/manager.rb:35:in `catch'
+warden (1.2.7) lib/warden/manager.rb:35:in `call'
+rack (2.0.5) lib/rack/etag.rb:25:in `call'
+rack (2.0.5) lib/rack/conditional_get.rb:25:in `call'
+rack (2.0.5) lib/rack/head.rb:12:in `call'
+rack (2.0.5) lib/rack/session/abstract/id.rb:232:in `context'
+rack (2.0.5) lib/rack/session/abstract/id.rb:226:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'
+activerecord (5.1.2) lib/active_record/migration.rb:556:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'
+activesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'
+actionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'
+web-console (3.6.2) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.6.2) lib/web_console/middleware.rb:22:in `block in call'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `catch'
+web-console (3.6.2) lib/web_console/middleware.rb:20:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.1.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.1) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'
+request_store (1.4.1) lib/request_store/middleware.rb:19:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'
+rack (2.0.5) lib/rack/method_override.rb:22:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.1.2) lib/action_dispatch/middleware/static.rb:125:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.1.2) lib/rails/engine.rb:522:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:09:47 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.0ms)
+Completed 200 OK in 47ms (Views: 45.5ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:10:41 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.6ms)
+Completed 200 OK in 54ms (Views: 52.6ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:10:56 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (8.1ms)
+Completed 200 OK in 54ms (Views: 52.7ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:11:02 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.9ms)
+Completed 200 OK in 54ms (Views: 52.3ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:11:04 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (7.8ms)
+Completed 200 OK in 53ms (Views: 51.0ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-19 23:11:18 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.6ms)
+Completed 200 OK in 64ms (Views: 62.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:52 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (4.5ms)
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:52 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-20 01:04:52 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Completed 200 OK in 2021ms (Views: 2017.0ms)
+
+
+Completed 200 OK in 2380ms (Views: 2365.9ms)
+
+
+Processing by StaticPagesController#help as HTML
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:54 -0400
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:54 -0400
+  Rendering static_pages/help.html.slim within layouts/application
+Processing by DashboardController#index as */*
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:54 -0400
+  Rendered static_pages/help.html.slim within layouts/application (5.4ms)
+Started GET "/" for 127.0.0.1 at 2018-08-20 01:04:54 -0400
+Processing by DashboardController#index as */*
+  Rendering dashboard/index.html.erb within layouts/application
+Processing by DashboardController#index as */*
+Processing by DashboardController#index as */*
+  Rendered dashboard/index.html.erb within layouts/application (0.5ms)
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.6ms)
+  Rendering dashboard/index.html.erb within layouts/application
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+  Rendered dashboard/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 177ms (Views: 174.9ms)
+
+
+Completed 200 OK in 203ms (Views: 198.8ms)
+
+
+Completed 200 OK in 216ms (Views: 191.4ms)
+
+
+Completed 200 OK in 213ms (Views: 190.8ms)
+
+
+Completed 200 OK in 221ms (Views: 188.3ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-20 01:11:29 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.7ms)
+Completed 200 OK in 46ms (Views: 44.8ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-20 01:11:51 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (4.9ms)
+Completed 200 OK in 44ms (Views: 42.6ms)
+
+
+Started GET "/static_pages/help" for 43.230.109.29 at 2018-08-20 01:11:56 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#help as HTML
+  Rendering static_pages/help.html.slim within layouts/application
+  Rendered static_pages/help.html.slim within layouts/application (6.1ms)
+Completed 200 OK in 48ms (Views: 46.4ms)
+
+
+Started GET "/static_pages/about" for 43.230.109.29 at 2018-08-20 01:12:03 -0400
+Cannot render console from 43.230.109.29! Allowed networks: 127.0.0.1, ::1, 127.0.0.0/127.255.255.255
+Processing by StaticPagesController#about as HTML
+  Rendering static_pages/about.html.slim within layouts/application
+  Rendered static_pages/about.html.slim within layouts/application (6.9ms)
+Completed 200 OK in 57ms (Views: 55.4ms)
+
+

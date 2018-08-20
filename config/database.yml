@@ -10,7 +10,7 @@ development:
   encoding: UTF-8
   host: localhost
   template: template0
-  database: blog_development
+  database: sample_app_development
   username: cabox
   password: masterkey
   pool: 5
@@ -21,7 +21,7 @@ test:
   encoding: UTF-8
   host: localhost
   template: template0
-  database: blog_test
+  database:  sample_app_test
   username: cabox	
   password: masterkey
   pool: 5
